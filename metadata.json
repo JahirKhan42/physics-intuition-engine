@@ -1,0 +1,6 @@
+{
+  "name": "Physics Intuition & Analogy Engine",
+  "description": "Translates abstract or mathematically challenging physics topics into intuitive conceptual explanations, verified equations, relatable analogies, misconception analysis, 60-second video scripts, and lab demonstration ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
